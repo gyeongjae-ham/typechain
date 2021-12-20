@@ -1,0 +1,9 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a blockchain",
+  "main": "index.js",
+  "repository": "https://github.com/hiyee-gj/typechain.git",
+  "author": "hiyee-gj",
+  "license": "MIT"
+}
